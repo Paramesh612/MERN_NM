@@ -1,0 +1,10 @@
+- Assets:
+    - Images
+    - CSS
+        - Font.css
+        - Common.css
+        - Xml.css
+- Components
+- Pages
+- Routes
+- Utils
